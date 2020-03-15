@@ -31,4 +31,4 @@ I'm a Senior Undergraduate at IIIT NR India (2016-20, B.Tech CSE). Currently int
 
 ### Contact me
 
-[kushashwaravishrimali@gmail.com](mailto:kushashwaravishrimali@gmail.com)
+[bhatia.ankur24@gmail.com](mailto:bhatia.ankur24@gmail.com)
