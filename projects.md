@@ -1,7 +1,7 @@
----
-layout: page
-permalink: /projects/
----
+# ---
+# layout: page
+# permalink: /projects/
+# ---
 
 Deep Learning PyTorch Tutorials
 ====================
