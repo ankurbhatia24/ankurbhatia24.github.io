@@ -20,7 +20,7 @@ I'm a Senior Undergraduate at UIET, Panjab University, India (2017-21, B.Tech EC
 <img src="/assets/opencv.png" width="250">                    
 
 * OpenCV Contributor for 2 Releases.
-    * To know more, check out the [projects section](https://krshrimali.github.io/krshrimali.github.io/projects/). 
+    * To know more, check out the [projects section](https://ankurbhatia24.github.io/ankurbhatia24.github.io/projects/). 
 * Student Activity Center Science and Technology Head (2018-2019 Session). 
     * Worked and led Techno-Cultural Fest as Technical Coordinator.
     * The Society of Coders (TSoC) and Artificial Intelligence and Machine Learning (AIML) groups got a headstart during the session.
