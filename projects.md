@@ -50,13 +50,13 @@ Computer Vision Projects
 
 Blogs
 ====================
-1. [**PyTorch C++ API: Using PyTorch C++ API using VGG-16 Network on MNIST Dataset**](https://krshrimali.github.io/PyTorch-C++-API/)
-2. [**Custom Data Loading using PyTorch C++ API**](https://krshrimali.github.io/Custom-Data-Loading-Using-PyTorch-CPP-API/)
-3. [**Training a Network on Custom Dataset using PyTorch C++ API**](https://krshrimali.github.io/Training-Network-Using-Custom-Dataset-PyTorch-CPP/)
-4. [**Classifying Dogs vs Cats using PyTorch C++ API: Part-1**](https://krshrimali.github.io/Blog-Dogs-VS-Cats/)
-5. [**Classifying Dogs vs Cats using PyTorch C++: Part 2**](https://krshrimali.github.io/Classifying-Dogs-Cats-PyTorch-CPP-Part-2/)
-6. [**Applying Transfer Learning on Dogs vs Cats Dataset (ResNet18) using PyTorch C++ API**](https://krshrimali.github.io/Applying-Transfer-Learning-Dogs-Cats/)
-7. [**What's so special about Gaussian Distribution?**](https://krshrimali.github.io/Understanding-Gaussian-Distribution/)
+1. [**PyTorch C++ API: Using PyTorch C++ API using VGG-16 Network on MNIST Dataset**](https://ankurbhatia24.github.io/PyTorch-C++-API/)
+2. [**Custom Data Loading using PyTorch C++ API**](https://ankurbhatia24.github.io/Custom-Data-Loading-Using-PyTorch-CPP-API/)
+3. [**Training a Network on Custom Dataset using PyTorch C++ API**](https://ankurbhatia24.github.io/Training-Network-Using-Custom-Dataset-PyTorch-CPP/)
+4. [**Classifying Dogs vs Cats using PyTorch C++ API: Part-1**](https://ankurbhatia24.github.io/Blog-Dogs-VS-Cats/)
+5. [**Classifying Dogs vs Cats using PyTorch C++: Part 2**](https://ankurbhatia24.github.io/Classifying-Dogs-Cats-PyTorch-CPP-Part-2/)
+6. [**Applying Transfer Learning on Dogs vs Cats Dataset (ResNet18) using PyTorch C++ API**](https://ankurbhatia24.github.io/Applying-Transfer-Learning-Dogs-Cats/)
+7. [**What's so special about Gaussian Distribution?**](https://ankurbhatia24.github.io/Understanding-Gaussian-Distribution/)
 
 Guest Blogs
 ====================
