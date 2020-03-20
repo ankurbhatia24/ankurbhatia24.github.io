@@ -11,9 +11,7 @@ The following topis are covered:
 and more.
 
 Computer Vision Projects
-===================
-
-<img src="/assets/opencv.png" width="250">
+====================
 
 1. **Dimensionality-Calculation-using-Homography-Matrix-and-QR-Code-Detection** (C++ and Python)
     - Opena.
