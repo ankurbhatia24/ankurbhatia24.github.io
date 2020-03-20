@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Senior Undergraduate at IIIT NR India (2016-20, B.Tech CSE). Currently interning at Rapid-Rich Object Search Labs (ROSE), NTU Singapore under [Prof. Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT). I've previously worked at Big Vision LLC and LearnOpenCV (under Dr. Satya Mallick, now Interim CEO OpenCV). I'm open to any opportunities in the field of Computer Vision and Deep Learning. 
+I'm a Senior Undergraduate at UIET, Panjab University, India (2017-21, B.Tech ECE). Currently interning at Rapid-Rich Object Search Labs (ROSE), NTU Singapore under [Prof. Alex Kot](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EACKOT). I've previously worked at Big Vision LLC and LearnOpenCV (under Dr. Satya Mallick, now Interim CEO OpenCV). I'm open to any opportunities in the field of Computer Vision and Deep Learning. 
 
 ### Internships
 
