@@ -25,7 +25,7 @@ You can check the queries and its result images at - [Database.csv](https://docs
 2. Payment Gif
 3. Arogya-Setu App Detection Gif
 4. Dashboard Gif <br>
-<img src="/assets/Projects/WhatsappTwilio.png" allign="center" height="300" width = "600"> <br> 
+<img src="/assets/Projects/WhatsappTwilio.png" allign="center" height="450" width = "800"> <br> 
 <img src="/assets/Projects/WhatsappPayment.gif" height="500" width="280">  <img src="/assets/Projects/WhatsappApp.gif" height="500" width="280"> <img src="/assets/Projects/WhatsappDashboard.gif" height="500" width="280">  
 
 * ## **Reddit Exploratory Data Analysis and Flair Prediction Application:**
@@ -62,13 +62,22 @@ This project consist of Flair Prediction on reddit posts of r/india. (The term f
 This project is a part of Eyrc Robotics Competition 2019. 
 1. Control of Autonomous bot including Robot chassis Designing, Raspberry Pi, Arduino, Color Image Processing, ArUco Detection and Path Planning.
 2. Design of Robotic Arm and stacking mechanism for pick, place and stacking.
-3. Implemented FSM and PID feedback control algorithms for accurate line following.
+3. Implemented FSM and PID feedback control algorithms for accurate line following. <br>
 Poster Presented (CHASCON 2019): Line Follower using Finite State Machine [http://bit.ly/LFR_FSM_paper](http://bit.ly/LFR_FSM_paper) <br>
-Video Presentation: [https://www.youtube.com/watch?v=FhUvQlrLWxc&t=135s](https://www.youtube.com/watch?v=FhUvQlrLWxc&t=135s)
+Video Presentation: [https://www.youtube.com/watch?v=FhUvQlrLWxc&t=135s](https://www.youtube.com/watch?v=FhUvQlrLWxc&t=135s)<br>
+Code Repo: [https://github.com/ankurbhatia24/Eyrc2019](https://github.com/ankurbhatia24/Eyrc2019) <br>
+<img src="/assets/Projects/EYRCTheme.png"> <br>
+<img src="/assets/Projects/EYRCVideo.gif" height="376" width="600">
 
-* ## **World Robot Olympiad - National Level, Kolkata, India:** <br>
-[https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/watch?v=mVLkh1UcLbE)
-<img src="/assets/Projects/WRO.gif" height="330" width="600"> <br>
+* ## **World Robot Olympiad - National Level, Kolkata, India - 2016:** <br>
+Designed a recycling plant robot that collects and segregates the waste into its respective containers using LEGO Mindstorms NXT. It includes line-following, color detection and actuator designing. <br> 
+The competition was divided in 4 rounds: <br>
+1. Selection Round, Science City, Lukhnow - This was the first time we were introduced with the NXT kits. There were 9-10 teams from various different schools, all teams were taught the basics of rotation of wheels, speed controls and Ultrasonic sensor. A small selection competition was conducted where a path needs to be followed by the robot avoiding obstacles (Task Duration - 30-45 minutes). We were able to make in the top 2 teams (We were 2nd) and got selected for the Free kit sponsorship.
+2. Next round was regional round, City Montessori School, Lucknow - This was the full task round, teams from various regional cities participated. We made it to the nationals, though our robot was only modified to work half the pathway on flex with fick and place of the containers.
+3. Third was the National Round, Netaji Indoor Stadium, Kolkata - Theme Rap the Scrap, We ranked 13 in the national level.
+Video: [https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/watch?v=mVLkh1UcLbE)
+<img src="/assets/Projects/WRO.gif" height="330" width="500"> <img src="/assets/Projects/WRO7.jpeg" height="330" width="400"> <br>
+<img src="/assets/Projects/WRO1.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO2.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO3.jpeg" height="330" width="290"> <br> <img src="/assets/Projects/WRO4.jpeg" height="330" width="290">  <img src="/assets/Projects/WRO5.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO6.jpeg" height="330" width="290"> <br>
 
 
 * ## **Male Female Classifier in Python:** <br>
