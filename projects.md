@@ -21,12 +21,12 @@ Also, this application has a functionality of finding weather the user has downl
 2. Payment Gif
 3. Arogya-Setu App Detection Gif
 4. Dashboard Gif <br>
- <img src="/assets/Projects/WhatsappTwilio.png" height="400" width="400">   <img src="/assets/Projects/WhatsappPayment.gif" height="400" width="400"> <br>
- <img src="/assets/Projects/WhatsappApp.gif" height="400" width="400">  <img src="/assets/Projects/WhatsappDashboard.gif" height="400" width="400">  
+<img src="/assets/Projects/WhatsappTwilio.png" allign="center" height="300" width = "600"> <br> 
+<img src="/assets/Projects/WhatsappPayment.gif" height="500" width="250">  <img src="/assets/Projects/WhatsappApp.gif" height="500" width="250"> <img src="/assets/Projects/WhatsappDashboard.gif" height="500" width="250">  
 
 ### Test Database
 You can check the database at - 
-![Database.csv](https://docs.google.com/spreadsheets/d/15K4Rc39m7zxl5mPylbLGwgRBCokYAhoOCEfT6Ly1NAA/edit?usp=sharing)
+[Database.csv](https://docs.google.com/spreadsheets/d/15K4Rc39m7zxl5mPylbLGwgRBCokYAhoOCEfT6Ly1NAA/edit?usp=sharing)
 
 <!---2. [**Implementation of No Reference Image Quality Assessment using BRISQUE**](https://github.com/krshrimali/No-Reference-Image-Q
 3. [**Template Matching, Cartoonification and more**]() (C++ and Python)
@@ -48,6 +48,6 @@ Guest Blogs
 ====================
 1. [**Convex Hull using Python and C++**](https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/):
 
--->
+--->
 
 
