@@ -74,7 +74,12 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 * **Cajon** - I was in my second year when I heard this amazing song being played in a concert on the beats of a musical instrument known as – Cajon. Being a drums player myself in school days, my curiosity peaked and I bought the instrument online. Having no access to a real-life trainer, I turned to Youtube for help. I saw numerous tutorials on my PC and learned to master the instrument with the help of a reel life trainer. Now, I perform this instrument on many concerts and functions and sometimes also get to fill my pocket. <br>
 Live performance in College Orientation 2019 : [CollegeOrientation2019](https://www.youtube.com/watch?v=YjI75EInQ9k&feature=youtu.be) <br>
 Live performance in College Orientation 2018 : [CollegeOrientation2018](https://www.youtube.com/watch?v=ij1H44K14tw)  <br>
-<img src="/assets/ExtraCurricular/ExtraCurricular1.png" align="center" height="350" width="450">
+<img src="/assets/ExtraCurricular/ExtraCurricular1.png" align="center" height="350" width="450"> <br>
+* **Participation in RedBull Can You Make It:**
+From the 10th – 17th of April, 200+ student teams from 60+ countries across the globe will hand over their cash, cards and phones and be transported to either Madrid, Budapest, Manchester, Stockholm or Rome. From there, they have seven days to reach Amsterdam, hitting checkpoints at major cities along the way and using their charm, whit and ingenuity to do so. <br> The competition is a dash to finish line, but winning isn’t the main intention: it’s not about when you get there, but how. Teams will have to cover more than 1,000 miles in one week before reaching the final destination, using nothing but Red Bull cans as currency. <br>
+**Our entry only reached to top in city level :p** <br>
+Program Link: [https://canyoumakeit.redbull.com/en](https://canyoumakeit.redbull.com/en) <br>
+Our Video: [https://www.youtube.com/watch?v=KYt29Lyr8o0](https://www.youtube.com/watch?v=KYt29Lyr8o0)
 
 ## Contact me
 

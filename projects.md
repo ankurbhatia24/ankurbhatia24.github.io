@@ -13,20 +13,71 @@ and more.
 Projects
 ====================
 
-* **Flask Based Whatsapp Application with Twilio** <br>
+* ## **Flask Based Whatsapp Application with Twilio:** <br>
 This project helps to calculate the amount of money people are donating to PM-CARES fund (Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund ) during the period of Lockdown.
 This WhatsApp application allows the users to send a screenshot or a pdf, as a WhatsApp message, of the payment done to the fund from 9 specific locations. The application takes the user media input and processes the image to evaluate the amount automatically using Computer Vision Techniques.
 Also, this application has a functionality of finding weather the user has downloaded the "Arogya Setu" App in his mobile device or not. For this, the user has to send the screenshot of his mobile screen where the app is present. <br>
+Github Repo: [https://github.com/ankurbhatia24/Whatsapp-Twilio-Backend](https://github.com/ankurbhatia24/Whatsapp-Twilio-Backend) <br>
+Application Video: [https://bit.ly/whatsapp-twilio](https://www.youtube.com/watch?v=ABdhxErtkH4) <br>
+**Test Database**
+You can check the queries and its result images at - [Database.csv](https://docs.google.com/spreadsheets/d/15K4Rc39m7zxl5mPylbLGwgRBCokYAhoOCEfT6Ly1NAA/edit?usp=sharing). It is just a testing db to check errors in the detection process. <br>
 1. Application Poster
 2. Payment Gif
 3. Arogya-Setu App Detection Gif
 4. Dashboard Gif <br>
 <img src="/assets/Projects/WhatsappTwilio.png" allign="center" height="300" width = "600"> <br> 
-<img src="/assets/Projects/WhatsappPayment.gif" height="500" width="250">  <img src="/assets/Projects/WhatsappApp.gif" height="500" width="250"> <img src="/assets/Projects/WhatsappDashboard.gif" height="500" width="250">  
+<img src="/assets/Projects/WhatsappPayment.gif" height="500" width="280">  <img src="/assets/Projects/WhatsappApp.gif" height="500" width="280"> <img src="/assets/Projects/WhatsappDashboard.gif" height="500" width="280">  
 
-### Test Database
-You can check the database at - 
-[Database.csv](https://docs.google.com/spreadsheets/d/15K4Rc39m7zxl5mPylbLGwgRBCokYAhoOCEfT6Ly1NAA/edit?usp=sharing)
+* ## **Reddit Exploratory Data Analysis and Flair Prediction Application:**
+This project consist of Flair Prediction on reddit posts of r/india. (The term flair, used in some subreddits for 'categorizing' posts submitted by users). EDA has been performed on the subreddit data collected. PRAW: The Python Reddit API Wrapper is used for data collection of the following flairs: <br> "AskIndia", "Coronavirus", "Non-Political", "Scheduled", "Photography", "Science/Technology", "Politics", "Business/Finance", "Policy/Economy", "Sports", "Food", "AMA". <br>
+**EDA:** <br>
+1. Most Popular Words (WordCloud)
+2. Posts with less than 10 votes (histogram)
+3. Most Popular Posts (BarPlot)
+4. Most Commented Posts (Barplot)
+5. No. of Comments vs Score (Regression Plots)
+6. Top 10 Authors
+7. Text Cleaning and Analysis
+8. Bag of Words on 2 Posts of same Flair
+9. XG Boost Classifier
+10. Feature Importance for Flair Prediction, etc. <br>
+[**Code - IPYNB**](https://github.com/ankurbhatia24/Reddit_EDA/blob/master/IPYNB/EDA.ipynb) <br>
+
+**Prediction Algorithm includes:** <br>
+1. Logistic Regression (sklearn: CountVectorizer -> TFIDF Transformer -> Logistic Regression)
+2. SVM (sklearn: CountVectorizer -> TFIDF Transformer -> SVM)
+3. Naive Bayes (sklearn: CountVectorizer -> TFIDF Transformer -> Naive Bayes)
+[**Code - IPYNB**](https://github.com/ankurbhatia24/Reddit_EDA/blob/master/IPYNB/Testing%20basic%20ML%20Models.ipynb)
+4. 1-D Convolution (Tensorflow/Keras: Word2Vec -> GloVE embeddings -> 1-D Convolution)
+5. LSTM (Tensorflow/Keras: Word2Vec -> GloVE embeddings -> LSTM)
+6. Bidirectional LSTM (Tensorflow/Keras: Word2Vec -> GloVE embeddings -> Bidirectional LSTM) <br>
+[**Code Repo**](https://github.com/ankurbhatia24/Reddit_EDA/blob/master/IPYNB/Data_pre-procesing%20and%20Model%20Evaluation.ipynb) <br>
+<img src="/assets/Projects/RedditEDA1.gif" height="191" width="640"> 
+
+**Application:** 
+1. Flask Web Application with a simple form. It takes the link of reddit post (r/india) and returns back the Flair.
+2. Also includes a rest api which can predict the flairs of all the links placed in a text file and returns a json object of the predicted flairs.
+
+* ## **Eyantra Robotics Competition:** <br>
+This project is a part of Eyrc Robotics Competition 2019. 
+1. Control of Autonomous bot including Robot chassis Designing, Raspberry Pi, Arduino, Color Image Processing, ArUco Detection and Path Planning.
+2. Design of Robotic Arm and stacking mechanism for pick, place and stacking.
+3. Implemented FSM and PID feedback control algorithms for accurate line following.
+Poster Presented (CHASCON 2019): Line Follower using Finite State Machine [http://bit.ly/LFR_FSM_paper](http://bit.ly/LFR_FSM_paper) <br>
+Video Presentation: [https://www.youtube.com/watch?v=FhUvQlrLWxc&t=135s](https://www.youtube.com/watch?v=FhUvQlrLWxc&t=135s)
+
+* ## **World Robot Olympiad - National Level, Kolkata, India:** <br>
+[https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/watch?v=mVLkh1UcLbE)
+<img src="/assets/Projects/WRO.gif" height="330" width="600"> <br>
+
+
+* ## **Male Female Classifier in Python:** <br>
+A Male/Female face classifier using Artificial Neural Network built from scratch in python.
+Github Repo: [https://github.com/ankurbhatia24/Male-Female-Classifier](https://github.com/ankurbhatia24/Male-Female-Classifier) <br>
+**MALE** <br>
+<img src="/assets/Projects/MFClassifier1.png" height="64" width="64"> <img src="/assets/Projects/MFClassifier2.png" height="64" width="64"> <img src="/assets/Projects/MFClassifier3.png" height="64" width="64">  <img src="/assets/Projects/MFClassifier4.png" height="64" width="64"> <br>
+**FEMALE** <br>
+<img src="/assets/Projects/MFClassifier5.png" height="64" width="64">  <img src="/assets/Projects/MFClassifier6.png" height="64" width="64">  <img src="/assets/Projects/MFClassifier7.png" height="64" width="64">  <img src="/assets/Projects/MFClassifier8.png" height="64" width="64"> 
 
 <!---2. [**Implementation of No Reference Image Quality Assessment using BRISQUE**](https://github.com/krshrimali/No-Reference-Image-Q
 3. [**Template Matching, Cartoonification and more**]() (C++ and Python)
