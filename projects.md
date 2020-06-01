@@ -58,6 +58,14 @@ This project consist of Flair Prediction on reddit posts of r/india. (The term f
 1. Flask Web Application with a simple form. It takes the link of reddit post (r/india) and returns back the Flair.
 2. Also includes a rest api which can predict the flairs of all the links placed in a text file and returns a json object of the predicted flairs.
 
+* ## **[In-Progress] Crazyflie 2.1 Autonomous motion:** <img src="/assets/Projects/workinprogress.gif"> <br>
+Project to be done: Stable autonomous motion using Vicon Markers. <br>
+Checkout Crazyflie ROS packages here - [https://github.com/whoenig/crazyflie_ros](https://github.com/whoenig/crazyflie_ros)
+Teleoperation Video: <br>
+<img src="/assets/Projects/RedditEDA1.gif" height="300" width="600"> 
+
+
+
 * ## **Eyantra Robotics Competition:** <br>
 This project is a part of Eyrc Robotics Competition 2019. 
 1. Control of Autonomous bot including Robot chassis Designing, Raspberry Pi, Arduino, Color Image Processing, ArUco Detection and Path Planning.
@@ -109,5 +117,6 @@ Guest Blogs
 1. [**Convex Hull using Python and C++**](https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/):
 
 --->
+
 
 

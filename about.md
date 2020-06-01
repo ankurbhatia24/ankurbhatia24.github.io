@@ -6,6 +6,19 @@ permalink: /about/
 
 I'm a Senior Undergraduate at UIET, Panjab University, India (2017-21, B.Tech ECE). Currently interning at a Startup  [**The Ideaz Factory**](https://theideazfactory.com/). I've previously interned at [**Indian Institute of Information Technology, Allahabad**](https://robita.iiita.ac.in/) (under Prof. G.C. Nandi) and [**Indian Institute of Technology Delhi**](https://home.iitd.ac.in/) (under Dr. Aakanksha Chowdhery, Research Scientist at Google Brain). I'm open to any opportunities in the field of Deep Learning. 
 
+## Research Interests
+	
+- Deep Learning and Computer Vision
+	* Attention and Transformer Networks
+	* Software Development
+	* Generative Adversarial Networks
+	* Object Detection and Image Analysis
+	* Image Segmentation
+- Robotics
+	* SLAM
+	* Control Theory	
+	
+
 ## Internships
 
 <img src="/assets/Internships/TIFlogo.png" width="250">                    <img src="/assets/Internships/iiitAllahabadlogo.png" height="200" width="250">                     <img src="/assets/Internships/iitdelhilogo.png" width="250">             
@@ -26,8 +39,9 @@ Report Submitted - [http://bit.ly/around_celestini_2019](http://bit.ly/around_ce
 3. Outline of Problem - [drive.google.com/Outline](https://drive.google.com/file/d/1E2HUP1-lYGmG2rYF95KakrvSVKM366Dy/view?usp=sharing) <br>
 4. Mid-Presentation - [drive.google.com/Mid_presentation](https://docs.google.com/presentation/d/1aPxZq80n54kgA9N_mvlmuxjGGIxYwvIb0ccGzxlCJAo/edit?usp=sharing) <br>
 5. Final-Presentation - [drive.google.com/Final_presentation](https://drive.google.com/file/d/1fCnQApSGvomSettBcYBABocXA6dUUCGR/view?usp=sharing) <br>
+6. Feature in Marconi Society Blog - [https://marconisociety.org/womens-safety-and-air-pollution-top-issues-for-indian-undergrads/](https://marconisociety.org/womens-safety-and-air-pollution-top-issues-for-indian-undergrads/)
 
-<img src="/assets/Experience/Celestini.png" align="center" height="400" width="600">  
+<img src="/assets/Experience/Celestini.png" align="center" height="400" width="600"> 
 
 * **Winner Ennovate 2019** -  
 Ennovate is an Innovation based competition being organized by GrowVation and DIC, Panjab University. It involved the building of an idea into a prototype and to pitch it in front of jury from various domains. After the idea submission round, we had enough time to develop and test a prototype model. People from vast backgrounds and organizations were available like Mathworks, ISRO, IBHubs, IIM Bangalore, etc. for networking and judgment. We presented our idea through a Poster and discussed the pros and cons of its development and suitability in India. Overall we managed to win the competition with great vigour. 
@@ -41,13 +55,14 @@ Dell Campassador is a marketing cum student development program by Dell in which
 2. Example Task - [http://bit.ly/win_ad_mad](http://bit.ly/win_ad_mad) <br>
 <img src="/assets/Experience/Dell1.png" height="340" width="420">                <img src="/assets/Experience/Dell2.png" height="400" width="420">
 
-* **Organizer Software Freedom Day 2019** -
+* **Organizer and Speaker Software Freedom Day 2019** -
 Software Freedom Day is an event held all across the world to celebrate the usage of Free and Open Source Software. The event aims to sensitize students about the virtues of Open Source Software. Each year the event has seen growing number of participants and our past speakers have come from prestigious software companies like Facebook, Microsoft and Google . The aim of SFD is to bring together developers and students of all levels on a single platform to share their thoughts, ideas and inspirations. <br>
-1. Website: [http://softwarefreedomday.in/](http://softwarefreedomday.in/)  <br>
-2. A snapshot of the community here: 
+1. Website: [http://softwarefreedomday.in/](http://softwarefreedomday.in/)
+2. SFD-19 Video: [https://www.youtube.com/watch?v=X1Pd42X2wwc](https://www.youtube.com/watch?v=X1Pd42X2wwc) <br>
+3. A snapshot of the community here:  <br>
 <img src="/assets/Experience/SFD1.png" align="center" height="400" width="700"> <br> <br>
-3. A snapshot of me giving lightning talk :
-<img src="/assets/Experience/SFD2.JPG" height="350" width="500"> <br>
+4. A snapshot of me giving lightning talk : <br>
+<img src="/assets/Experience/SFD2.JPG" height="350" width="450"> <img src="/assets/Experience/SFD3.JPG" height="350" width="500"><br>
 
 * **Mentor, Programming Club (Pclub)** - is a student-run club that is involved in effective teaching and collaborating on learning programming languages and frameworks. It aims at educating students and to spread selfless knowledge of various domains of Computer Science, organizes hackathons, and celebrate Open-Source. It's not like a normal club in college that holds recruitments for students. It’s an open community, because we believe the more we share, the more we learn from others. We take weekly sessions on various domains.To know more follow us on:  <br>
 1. Twitter: [https://twitter.com/PClubUIET](https://twitter.com/PClubUIET) <br>
@@ -75,11 +90,16 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 Live performance in College Orientation 2019 : [CollegeOrientation2019](https://www.youtube.com/watch?v=YjI75EInQ9k&feature=youtu.be) <br>
 Live performance in College Orientation 2018 : [CollegeOrientation2018](https://www.youtube.com/watch?v=ij1H44K14tw)  <br>
 <img src="/assets/ExtraCurricular/ExtraCurricular1.png" align="center" height="350" width="450"> <br>
-* **Participation in RedBull Can You Make It:**
+* **Participation in RedBull Can You Make It** -
 From the 10th – 17th of April, 200+ student teams from 60+ countries across the globe will hand over their cash, cards and phones and be transported to either Madrid, Budapest, Manchester, Stockholm or Rome. From there, they have seven days to reach Amsterdam, hitting checkpoints at major cities along the way and using their charm, whit and ingenuity to do so. <br> The competition is a dash to finish line, but winning isn’t the main intention: it’s not about when you get there, but how. Teams will have to cover more than 1,000 miles in one week before reaching the final destination, using nothing but Red Bull cans as currency. <br>
 **Our entry only reached to top in city level :p** <br>
 Program Link: [https://canyoumakeit.redbull.com/en](https://canyoumakeit.redbull.com/en) <br>
 Our Video: [https://www.youtube.com/watch?v=KYt29Lyr8o0](https://www.youtube.com/watch?v=KYt29Lyr8o0)
+
+* **Running and Cycling**
+<img src="/assets/Experience/Running1.jpeg" height="500" width="300"> <img src="/assets/Experience/Running2.jpeg" height="500" width="300"> <img src="/assets/Experience/Running3.jpeg" height="500" width="300"> 
+
+## Other Achievements
 
 ## Contact me
 

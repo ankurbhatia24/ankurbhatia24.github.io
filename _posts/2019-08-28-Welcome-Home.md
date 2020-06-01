@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World. You're with Ankur Bhatia!"
+title: "Bienvenue. You're with Ankur Bhatia!"
 date: 2019-08-28
 desc: "Welcome to Ankur's personal blog."
 keywords: "Blog, Tensorflow, Keras, C++, Jupyter, Notebook, OpenCV, Federated-Learning, Robotics, Drones, Electronics, and much more..."
@@ -15,43 +15,19 @@ icon: icon-html
 
 ## About Me
 
-Hello World! I'm Ankur Bhatia, Pre-final Year Undergraduate at University Institute of Engineering and Technology, Panjab University with major in Electronics and Communications Engineering. My research interests are Computer Vision and Robotics. I've previously worked at the *Center of Intelligent Robotics, IIIT, Allahabad* and *Indian Institute of Technology, Delhi under Celestini Program India conducted by The Marconi Society*.
+Hello World! I'm Ankur Bhatia, Pre-final Year Undergraduate at University Institute of Engineering and Technology, Panjab University with major in Electronics and Communications Engineering. My research interests are Deep Learning and Computer Vision. I've previously worked at the *Center of Intelligent Robotics, IIIT, Allahabad* and *Indian Institute of Technology, Delhi under Celestini Program India conducted by The Marconi Society*.
 
-I am currently open to 3 Month Internship Opportunities and my near goal is to do a Ph.D. in the field of Robotics.
+I am currently open to 3 Month Internship Opportunities and my near goal is to do a Masters in the field of Deep Learning.
 
-Please navigate to <a href="https://krshrimali.github.io/pytorch/">PyTorch</a> or <a href="https://krshrimali.github.io/opencv/">OpenCV</a> section of this blog to read my blogs.
+<img src="/assets/HomePage_Blogs/new.gif" allign="center">
+# Paper Review on Ranknet
+In this video, we understand about Ranknet. Learning to Rank using Ranknet (by Microsoft) is a Ranking Algorithm that is used to rank the results of a query. The ranking comparison is performed pairwise, no mapping to particular rank values is required and no rank boundaries are needed. Hence, this paper removes the need of performing ordinal regression. Also, this paper presents a probabilistic cost function and learning using Gradient Descent.<br>
+Video Link: [https://www.youtube.com/watch?v=MuAhhikIm2U](https://www.youtube.com/watch?v=MuAhhikIm2U) <br>
+Paper Link: [ICML_RankNet](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf) <br>
+Code: [ranknet.py](https://github.com/airalcorn2/RankNet/blob/master/ranknet.py)
 
-## Work Experience
+# Deploy a flask app on Amazon AWS EC2 and keep it running while you are offline. <br>
+This blog is published under [Analytics Vidhya Publication](https://medium.com/analytics-vidhya). Flask is a micro web framework in python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It’s easy to get started with to deploy .py’s on the web....... <br>
+[Read More](https://medium.com/analytics-vidhya/deploy-a-flask-app-on-amazon-aws-ec2-and-keep-it-running-while-you-are-offline-38d22571e2c5)
 
-- **Center of Intelligent Robotics, IIIT, Allahabad** 
-    - On-site internship at ROSE Labs, NTU Singapore under Prof. Alex Kot (Director, ROSE Labs). Worked on Automatic License Plate Recognition technique in real time using PyTorch in both C++ and Python. Used YOLO based network and achieved 85% accuracy for Single Line License Plates and Double Line License Plates (tested on real time dataset of Singaporean Vehicles).
-- **IIT, Delhi, The Marconi Society**
-	- Worked from home in writing blogs and working for clients for Big Vision LLC. Became OpenCV Contributor during my internship, and worked on several projects using C, C++ and Python.
-- **Design and Innovation Center, UIET, Panjab University** 
-	- On-site internship at IIITM Gwalior and worked on A* Search Algorithm to understand communication between a robot and a UAV.
-- **OpenStudy, Palo Alto**
-	- The responsibilities included to actively promote the website and it’s cause amongst the students and to guide them through the beginning steps for the website. Made sure the smooth following of Code of Conduct of OpenStudy. Also worked as a leader of OpenStudy Newsletter Programme for two editions as well as Designer in one edition.
-- **Programming Club, UIET**
-	- Coordinated clubs running under SAC: Artificial Intelligence and Machine Learning Club, The Society of Coders. Also became the Technical Coordinator of Annual Technical and Cultural Fest - TechNovate 2019.
 
-## Research Interests
-	
-- Deep Learning and Computer Vision
-	* Optimization and Pruning
-	* Software Development
-	* Generative Adversarial Networks
-	* Reinforcement Learning
-	* Object Detection and Image Analysis
-- Development
-	* Open Source Framework Development in Libraries: PyTorch, OpenCV, NumPy
-
-## Skills
-	
-* **Programming Language:** Python, C++, C
-* **Tools:** LaTeX, Git, Jupyter
-* **Frameworks:** OpenCV, Tensorflow
-* **Libraries:** NumPy, Matplotlib, scikit-learn, OpenCV, Keras, Tensorflow, Pysyft
-
-## Non-Academic Interests and Achievements
-
-I involve myself in non-academic activities like Debating, blogging, playing Table Tennis and more. I was also a Scout in my high school. I love World History and love discussing on social and international topics. I've won several competitions in Debates (more about them in my <a href="https://krshrimali.github.io/resume.pdf">CV</a>).
