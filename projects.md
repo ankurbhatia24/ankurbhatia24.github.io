@@ -52,6 +52,14 @@ This project consist of Flair Prediction on reddit posts of r/india. (The term f
 1. Flask Web Application with a simple form. It takes the link of reddit post (r/india) and returns back the Flair.
 2. Also includes a rest api which can predict the flairs of all the links placed in a text file and returns a json object of the predicted flairs.
 
+* ## **Multi-modal Human Emotion Recognition: - 2019-2020:** <br>
+This research work is focused on studying the capability of robots to understand human emotions in real-time. Understanding emotions will allow the systems to adapt according to the responses and behavioral patterns. If this happens in a reasonable sense of accuracy, then we would be expecting artificial agents to be our cognitive-consulting partners in our everyday life. <br>
+For multimodal emotion recognition: we divided the dataset into 3 parts. The text part (text utterances), the audio part (audio utterances), and the Video part (Face model). We use deep learning models for classifying the emotions into 7 categories - **Anger, Disgust, Fear, Joy, Neutral, Sadness, Surprise**.<br>
+Synopsis: [MMHER Synopsis](https://docs.google.com/document/d/17qSOclmcoHCBSjNucMovgoVX1fKSyFwkWQ1cJM8CnGE/edit?usp=sharing) <br>
+Code: [https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION](https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION) <br>
+<img src="/assets/Projects/MELD1.png" height="350" width="700"> <br>
+<img src="/assets/Projects/MELD2.gif" height="180" width="600">
+
 * ## **[In-Progress] Crazyflie 2.1 Autonomous motion:** <img src="/assets/Projects/workinprogress.gif"> <br>
 Project to be done: Stable autonomous motion using Vicon Markers. <br>
 Checkout Crazyflie ROS packages here - [https://github.com/whoenig/crazyflie_ros](https://github.com/whoenig/crazyflie_ros) <br>
@@ -60,7 +68,7 @@ Teleoperation Video: [https://www.youtube.com/watch?v=Dy30Q3vTisA](https://www.y
 
 
 
-* ## **Eyantra Robotics Competition:** <br>
+* ## **Eyantra Robotics Competition - 2018-19:** <br>
 This project is a part of Eyrc Robotics Competition 2019. 
 1. Control of Autonomous bot including Robot chassis Designing, Raspberry Pi, Arduino, Color Image Processing, ArUco Detection and Path Planning.
 2. Design of Robotic Arm and stacking mechanism for pick, place and stacking.
@@ -81,9 +89,12 @@ Video: [https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/wat
 <img src="/assets/Projects/WRO.gif" height="330" width="500"> <img src="/assets/Projects/WRO7.jpeg" height="330" width="400"> <br>
 <img src="/assets/Projects/WRO1.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO2.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO3.jpeg" height="330" width="290"> <br> <img src="/assets/Projects/WRO4.jpeg" height="330" width="290">  <img src="/assets/Projects/WRO5.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO6.jpeg" height="330" width="290"> <br>
 
+* ## **RFID Based Attendence System - 2017-18:** <br>
+[College Project]Designed and Implemented automatic attendence marking and recording system using ESP32, MFRC522 transmitter, RFID tags and Google Sheets as database. <br>
+Report: [](https://docs.google.com/document/d/17jb2ki4bBRN9sly_19rZLRfEM30snpHmlIAO9eGujYA/edit?usp=sharing)
 
 * ## **Male Female Classifier in Python:** <br>
-A Male/Female face classifier using Artificial Neural Network built from scratch in python.
+A Male/Female face classifier using Artificial Neural Network built from scratch in python. <br>
 Github Repo: [https://github.com/ankurbhatia24/Male-Female-Classifier](https://github.com/ankurbhatia24/Male-Female-Classifier) <br>
 **MALE** <br>
 <img src="/assets/Projects/MFClassifier1.png" height="64" width="64"> <img src="/assets/Projects/MFClassifier2.png" height="64" width="64"> <img src="/assets/Projects/MFClassifier3.png" height="64" width="64">  <img src="/assets/Projects/MFClassifier4.png" height="64" width="64"> <br>
