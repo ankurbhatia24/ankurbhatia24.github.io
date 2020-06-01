@@ -64,7 +64,7 @@ Code: [https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION](https://
 Project to be done: Stable autonomous motion using Vicon Markers. <br>
 Checkout Crazyflie ROS packages here - [https://github.com/whoenig/crazyflie_ros](https://github.com/whoenig/crazyflie_ros) <br>
 Teleoperation Video: [https://www.youtube.com/watch?v=Dy30Q3vTisA](https://www.youtube.com/watch?v=Dy30Q3vTisA) <br>
-<img src="/assets/Projects/RedditEDA1.gif" height="300" width="600"> 
+<img src="/assets/Projects/CrazyflieTeleoperation.gif" height="300" width="600"> 
 
 
 

@@ -94,7 +94,7 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 1. **Deep Learning Course, Under Programming Club, UIET - 2020**: <br>
 <img src="/assets/Teaching/AI_Saturday1.gif" height="450" width="450"> <img src="/assets/Teaching/DLText.png" height="450" width="450"> <br>
 SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
-**The session list is as follows**:
+**The session list is as follows**: <br>
 |     | Date            | Speaker                    | Topic                                 | Session Pics                                                                                                      | Link to Post                                                                                                                                                                                             |
 |-----|-----------------|----------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.  | Jan 25, 2020    | Ankur Bhatia               | Introduction to Deep Learning         | [Intro](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning)                   | [https://www.facebook.com/pclubuiet/videos/170344660980781/](https://www.facebook.com/pclubuiet/videos/170344660980781/)                                                                                 |
@@ -130,7 +130,7 @@ Program Link: [https://canyoumakeit.redbull.com/en](https://canyoumakeit.redbull
 Our Video: [https://www.youtube.com/watch?v=KYt29Lyr8o0](https://www.youtube.com/watch?v=KYt29Lyr8o0)
 
 * **Running and Cycling** <br>
-<img src="/assets/Experience/Running1.jpeg" height="500" width="300"> <img src="/assets/Experience/Running2.jpeg" height="500" width="300"> <img src="/assets/Experience/Running3.jpeg" height="500" width="300"> <br> <img src="/assets/Experience/Cycling1.jpeg" height="450" width="600">
+<img src="/assets/Experience/Running1.jpeg" height="500" width="300"> <img src="/assets/Experience/Running2.jpeg" height="500" width="300"> <img src="/assets/Experience/Running3.jpeg" height="500" width="300"> <br> <img src="/assets/Experience/Cycling1.jpeg" height="450" width="500">
 
 ## Other Achievements
 
