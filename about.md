@@ -18,6 +18,14 @@ I'm a Senior Undergraduate at UIET, Panjab University, India (2017-21, B.Tech EC
 	* SLAM
 	* Control Theory	
 	
+## Contact Handles
+	
+- Linkedin: [https://www.linkedin.com/in/bhatia-ankur24](https://www.linkedin.com/in/bhatia-ankur24)
+- Twitter: [https://www.twitter.com/bhatia_ankur24](https://www.twitter.com/bhatia_ankur24)
+- Github: [https://github.com/ankurbhatia24](https://github.com/ankurbhatia24)
+- Mail: [bhatia.ankur24@gmail.com](bhatia.ankur24@gmail.com)
+- Youtube: [https://youtube.com/channel/UCXBpYWCQRehoBYZEqfpTuNA](https://youtube.com/channel/UCXBpYWCQRehoBYZEqfpTuNA)
+- Medium: [https://medium.com/@ankurbhatia_18761](https://medium.com/@ankurbhatia_18761)
 
 ## Internships
 
@@ -62,7 +70,7 @@ Software Freedom Day is an event held all across the world to celebrate the usag
 3. A snapshot of the community here:  <br>
 <img src="/assets/Experience/SFD1.png" align="center" height="400" width="700"> <br> <br>
 4. A snapshot of me giving lightning talk : <br>
-<img src="/assets/Experience/SFD2.JPG" height="350" width="450"> <img src="/assets/Experience/SFD3.JPG" height="350" width="500"><br>
+<img src="/assets/Experience/SFD2.JPG" height="350" width="450"> <img src="/assets/Experience/SFD3.jpg" height="350" width="500"><br> <br>
 
 * **Mentor, Programming Club (Pclub)** - is a student-run club that is involved in effective teaching and collaborating on learning programming languages and frameworks. It aims at educating students and to spread selfless knowledge of various domains of Computer Science, organizes hackathons, and celebrate Open-Source. It's not like a normal club in college that holds recruitments for students. It’s an open community, because we believe the more we share, the more we learn from others. We take weekly sessions on various domains.To know more follow us on:  <br>
 1. Twitter: [https://twitter.com/PClubUIET](https://twitter.com/PClubUIET) <br>
@@ -80,7 +88,7 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 3. HackUIET (Software and Hardware Hackathon) - 2019 <br>
 <img src="/assets/Experience/OtherWorkshops.png" align="center" height="400" width="700">
 
-* For Internships and work experience, check out my Resume. 
+* For Internships and work experience, check out my [Resume](https://ankurbhatia24.github.io/ankurbhatia24.github.io/resume.pdf). 
 
 ## Teaching
 
@@ -96,8 +104,8 @@ From the 10th – 17th of April, 200+ student teams from 60+ countries across th
 Program Link: [https://canyoumakeit.redbull.com/en](https://canyoumakeit.redbull.com/en) <br>
 Our Video: [https://www.youtube.com/watch?v=KYt29Lyr8o0](https://www.youtube.com/watch?v=KYt29Lyr8o0)
 
-* **Running and Cycling**
-<img src="/assets/Experience/Running1.jpeg" height="500" width="300"> <img src="/assets/Experience/Running2.jpeg" height="500" width="300"> <img src="/assets/Experience/Running3.jpeg" height="500" width="300"> 
+* **Running and Cycling** <br>
+<img src="/assets/Experience/Running1.jpeg" height="500" width="300"> <img src="/assets/Experience/Running2.jpeg" height="500" width="300"> <img src="/assets/Experience/Running3.jpeg" height="500" width="300"> <br> <img src="/assets/Experience/Cycling1.jpeg" height="450" width="600">
 
 ## Other Achievements
 

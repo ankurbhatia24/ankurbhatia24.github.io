@@ -13,13 +13,19 @@ images:
 icon: icon-html
 ---
 
-## About Me
-
-Hello World! I'm Ankur Bhatia, Pre-final Year Undergraduate at University Institute of Engineering and Technology, Panjab University with major in Electronics and Communications Engineering. My research interests are Deep Learning and Computer Vision. I've previously worked at the *Center of Intelligent Robotics, IIIT, Allahabad* and *Indian Institute of Technology, Delhi under Celestini Program India conducted by The Marconi Society*.
-
+## Status
 I am currently open to 3 Month Internship Opportunities and my near goal is to do a Masters in the field of Deep Learning.
 
-<img src="/assets/HomePage_Blogs/new.gif" allign="center">
+### Contact Handles
+	
+- Linkedin: [https://www.linkedin.com/in/bhatia-ankur24](https://www.linkedin.com/in/bhatia-ankur24)
+- Twitter: [https://www.twitter.com/bhatia_ankur24](https://www.twitter.com/bhatia_ankur24)
+- Github: [https://github.com/ankurbhatia24](https://github.com/ankurbhatia24)
+- Mail: [bhatia.ankur24@gmail.com](bhatia.ankur24@gmail.com)
+- Youtube: [https://youtube.com/channel/UCXBpYWCQRehoBYZEqfpTuNA](https://youtube.com/channel/UCXBpYWCQRehoBYZEqfpTuNA)
+- Medium: [https://medium.com/@ankurbhatia_18761](https://medium.com/@ankurbhatia_18761)
+
+<img src="/assets/HomePage_Blogs/new_small.gif" allign="center">
 # Paper Review on Ranknet
 In this video, we understand about Ranknet. Learning to Rank using Ranknet (by Microsoft) is a Ranking Algorithm that is used to rank the results of a query. The ranking comparison is performed pairwise, no mapping to particular rank values is required and no rank boundaries are needed. Hence, this paper removes the need of performing ordinal regression. Also, this paper presents a probabilistic cost function and learning using Gradient Descent.<br>
 Video Link: [https://www.youtube.com/watch?v=MuAhhikIm2U](https://www.youtube.com/watch?v=MuAhhikIm2U) <br>

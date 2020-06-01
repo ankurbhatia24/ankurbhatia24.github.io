@@ -3,12 +3,6 @@ layout: default
 permalink: /projects/
 ---
 
-The following topis are covered:
-
-- **Basics of PyTorch:** Tensors, Data Loading etc.
-- **Convolutional Neural Networks**
-- **Visualizing Outputs from Hidden Layers**
-and more.
 
 Projects
 ====================
@@ -60,8 +54,8 @@ This project consist of Flair Prediction on reddit posts of r/india. (The term f
 
 * ## **[In-Progress] Crazyflie 2.1 Autonomous motion:** <img src="/assets/Projects/workinprogress.gif"> <br>
 Project to be done: Stable autonomous motion using Vicon Markers. <br>
-Checkout Crazyflie ROS packages here - [https://github.com/whoenig/crazyflie_ros](https://github.com/whoenig/crazyflie_ros)
-Teleoperation Video: <br>
+Checkout Crazyflie ROS packages here - [https://github.com/whoenig/crazyflie_ros](https://github.com/whoenig/crazyflie_ros) <br>
+Teleoperation Video: [https://www.youtube.com/watch?v=Dy30Q3vTisA](https://www.youtube.com/watch?v=Dy30Q3vTisA) <br>
 <img src="/assets/Projects/RedditEDA1.gif" height="300" width="600"> 
 
 
@@ -82,8 +76,8 @@ Designed a recycling plant robot that collects and segregates the waste into its
 The competition was divided in 4 rounds: <br>
 1. Selection Round, Science City, Lukhnow - This was the first time we were introduced with the NXT kits. There were 9-10 teams from various different schools, all teams were taught the basics of rotation of wheels, speed controls and Ultrasonic sensor. A small selection competition was conducted where a path needs to be followed by the robot avoiding obstacles (Task Duration - 30-45 minutes). We were able to make in the top 2 teams (We were 2nd) and got selected for the Free kit sponsorship.
 2. Next round was regional round, City Montessori School, Lucknow - This was the full task round, teams from various regional cities participated. We made it to the nationals, though our robot was only modified to work half the pathway on flex with fick and place of the containers.
-3. Third was the National Round, Netaji Indoor Stadium, Kolkata - Theme Rap the Scrap, We ranked 13 in the national level.
-Video: [https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/watch?v=mVLkh1UcLbE)
+3. Third was the National Round, Netaji Indoor Stadium, Kolkata - Theme Rap the Scrap, We ranked 13 in the national level. <br>
+Video: [https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/watch?v=mVLkh1UcLbE) <br>
 <img src="/assets/Projects/WRO.gif" height="330" width="500"> <img src="/assets/Projects/WRO7.jpeg" height="330" width="400"> <br>
 <img src="/assets/Projects/WRO1.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO2.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO3.jpeg" height="330" width="290"> <br> <img src="/assets/Projects/WRO4.jpeg" height="330" width="290">  <img src="/assets/Projects/WRO5.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO6.jpeg" height="330" width="290"> <br>
 
