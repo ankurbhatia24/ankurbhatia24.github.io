@@ -6,7 +6,7 @@ permalink: /projects/
 
 Projects
 ====================
-
+<img src="/assets/Projects/new_small.gif">
 * ## **Flask Based Whatsapp Application with Twilio:** <br>
 This project helps to calculate the amount of money people are donating to PM-CARES fund (Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund ) during the period of Lockdown.
 This WhatsApp application allows the users to send a screenshot or a pdf, as a WhatsApp message, of the payment done to the fund from 9 specific locations. The application takes the user media input and processes the image to evaluate the amount automatically using Computer Vision Techniques.
@@ -57,10 +57,10 @@ This research work is focused on studying the capability of robots to understand
 For multimodal emotion recognition: we divided the dataset into 3 parts. The text part (text utterances), the audio part (audio utterances), and the Video part (Face model). We use deep learning models for classifying the emotions into 7 categories - **Anger, Disgust, Fear, Joy, Neutral, Sadness, Surprise**.<br>
 Synopsis: [MMHER Synopsis](https://docs.google.com/document/d/17qSOclmcoHCBSjNucMovgoVX1fKSyFwkWQ1cJM8CnGE/edit?usp=sharing) <br>
 Code: [https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION](https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION) <br>
-<img src="/assets/Projects/MELD1.png" height="350" width="700"> <br>
+<img src="/assets/Projects/MELD1.PNG" height="350" width="700"> <br>
 <img src="/assets/Projects/MELD2.gif" height="180" width="600">
 
-* ## **[In-Progress] Crazyflie 2.1 Autonomous motion:** <img src="/assets/Projects/workinprogress.gif"> <br>
+* ## **[In-Progress] Crazyflie 2.1 Autonomous motion:** <img src="/assets/Projects/workinprogress_small.gif"> <br>
 Project to be done: Stable autonomous motion using Vicon Markers. <br>
 Checkout Crazyflie ROS packages here - [https://github.com/whoenig/crazyflie_ros](https://github.com/whoenig/crazyflie_ros) <br>
 Teleoperation Video: [https://www.youtube.com/watch?v=Dy30Q3vTisA](https://www.youtube.com/watch?v=Dy30Q3vTisA) <br>
@@ -87,11 +87,11 @@ The competition was divided in 4 rounds: <br>
 3. Third was the National Round, Netaji Indoor Stadium, Kolkata - Theme Rap the Scrap, We ranked 13 in the national level. <br>
 Video: [https://www.youtube.com/watch?v=mVLkh1UcLbE](https://www.youtube.com/watch?v=mVLkh1UcLbE) <br>
 <img src="/assets/Projects/WRO.gif" height="330" width="500"> <img src="/assets/Projects/WRO7.jpeg" height="330" width="400"> <br>
-<img src="/assets/Projects/WRO1.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO2.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO3.jpeg" height="330" width="290"> <br> <img src="/assets/Projects/WRO4.jpeg" height="330" width="290">  <img src="/assets/Projects/WRO5.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO6.jpeg" height="330" width="290"> <br>
+<img src="/assets/Projects/WRO1.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO2.jpeg" height="330" width="290"> <img src="/assets/Projects/WRO3.jpeg" height="330" width="300"> <br> <img src="/assets/Projects/WRO4.jpeg" height="330" width="290">  <img src="/assets/Projects/WRO5.jpeg" height="330" width="300"> <img src="/assets/Projects/WRO6.jpeg" height="330" width="290"> <br>
 
 * ## **RFID Based Attendence System - 2017-18:** <br>
-[College Project]Designed and Implemented automatic attendence marking and recording system using ESP32, MFRC522 transmitter, RFID tags and Google Sheets as database. <br>
-Report: [](https://docs.google.com/document/d/17jb2ki4bBRN9sly_19rZLRfEM30snpHmlIAO9eGujYA/edit?usp=sharing)
+[College Project] Designed and Implemented automatic attendence marking and recording system using ESP32, MFRC522 transmitter, RFID tags and Google Sheets as database. <br>
+Report: [RFID_Doc](https://docs.google.com/document/d/17jb2ki4bBRN9sly_19rZLRfEM30snpHmlIAO9eGujYA/edit?usp=sharing)
 
 * ## **Male Female Classifier in Python:** <br>
 A Male/Female face classifier using Artificial Neural Network built from scratch in python. <br>

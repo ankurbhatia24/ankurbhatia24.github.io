@@ -91,7 +91,32 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 * For Internships and work experience, check out my [Resume](https://ankurbhatia24.github.io/ankurbhatia24.github.io/resume.pdf). 
 
 ## Teaching
+1. **Deep Learning Course, Under Programming Club, UIET - 2020**: <br>
+<img src="/assets/Teaching/AI_Saturday1.gif" height="450" width="450"> <img src="/assets/Teaching/DLText.png" height="450" width="450"> <br>
+SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
+**The session list is as follows**:
+|     | Date            | Speaker                    | Topic                                 | Session Pics                                                                                                      | Link to Post                                                                                                                                                                                             |
+|-----|-----------------|----------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.  | Jan 25, 2020    | Ankur Bhatia               | Introduction to Deep Learning         | [Intro](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning)                   | [https://www.facebook.com/pclubuiet/videos/170344660980781/](https://www.facebook.com/pclubuiet/videos/170344660980781/)                                                                                 |
+| 2.  | Feb 1, 2020     | Ankur Bhatia               | Optimizing Deep Neral Networks        |                                                                                                                   | [https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud](https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud) |
+| 3.  | Feb 8, 2020     | Sarthak Thakur             | Regularization and Initializations    |                                                                                                                   |                                                                                                                                                                                                          |
+| 4.  | Feb 8, 2020     | Divyam Madaan              | SOTA Research and How to do Research? | [SOTA Divyam Madaan](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan) | [https://twitter.com/bhatia_ankur24/status/1228171211336609794](https://twitter.com/bhatia_ankur24/status/1228171211336609794)                                                                           |
+| 5.  | Feb 14, 2020    | Yeshi Jinsel  Ankur Bhatia | Introduction to Convolutional NN's    | [CNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks)              |                                                                                                                                                                                                          |
+| 6.  | Feb 16, 2020    | Ankur Bhatia               | Optimizing Neural Networks            | [Optimizing DNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN)                    |                                                                                                                                                                                                          |
+| 7.  | Feb 22, 2020    |                            | Paper Presentations                   | [Paper Presentations](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation)             | [https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI](https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI) |
+| 8.  | March 5, 2020   | Ankur Bhatia               | Object Detection                      | [Object Detection](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection)                  |                                                                                                                                                                                                          | <br> <br>
+<img src="/assets/Teaching/DLSessions.png"> <br>
+2. **Session on Git and GitHub:**
+- Merging multiple commits (squash).
+- Stashing.
+- Reverting commits, removing commits (soft and hard resets)
+- Resolving merge conflicts (locally and remotely (from github gui))
+- About Hacktoberfest
 
+3. **Session on Python - covering basic syntax and useful libraries.**
+
+4. **Session on Linux, OpenSource Development and Hacktoberfest:** Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. During Hacktoberfest each participant needs to do atleast 4 pull request to receive a Tshirt and schwags. One can contribute in any open source project available on @github. At UIET, we would be bringing some awesome open source contributers and maintainers to provide insights of how effective an open source contribution can be. You'll learn how to start looking into big organizations and get yourselves prepared for the summer of codes programmes. We'll help you all explore awesome github repositories and also help in understanding the github flow. NOTE: Make sure you get yourselves registered on the Hacktoberfest website (https://hacktoberfest.digitalocean.com) to make your contributions count. Small Competition among peers: The one who will do the highest number of Pull Requests by 15th October will get some awesome @jetbrains Schwags. To know more about the event: visit https://hacktoberfest.digitalocean.com
+Register yourselves here: https://hacktoberfestinuiet.eventcreate.com/
 
 ## Extra Curricular
 * **Cajon** - I was in my second year when I heard this amazing song being played in a concert on the beats of a musical instrument known as – Cajon. Being a drums player myself in school days, my curiosity peaked and I bought the instrument online. Having no access to a real-life trainer, I turned to Youtube for help. I saw numerous tutorials on my PC and learned to master the instrument with the help of a reel life trainer. Now, I perform this instrument on many concerts and functions and sometimes also get to fill my pocket. <br>
@@ -112,5 +137,6 @@ Our Video: [https://www.youtube.com/watch?v=KYt29Lyr8o0](https://www.youtube.com
 ## Contact me
 
 [bhatia.ankur24@gmail.com](mailto:bhatia.ankur24@gmail.com)
+
 
 
