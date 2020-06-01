@@ -93,8 +93,8 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 ## Teaching
 1. **Deep Learning Course, Under Programming Club, UIET - 2020**: <br>
 <img src="/assets/Teaching/AI_Saturday1.gif" height="450" width="450"> <img src="/assets/Teaching/DLText.png" height="450" width="450"> <br>
-SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
-**The session list is as follows**: <br>
+
+**The session list is as follows**:  
 |     | Date            | Speaker                    | Topic                                 | Session Pics                                                                                                      | Link to Post                                                                                                                                                                                             |
 |-----|-----------------|----------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.  | Jan 25, 2020    | Ankur Bhatia               | Introduction to Deep Learning         | [Intro](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning)                   | [https://www.facebook.com/pclubuiet/videos/170344660980781/](https://www.facebook.com/pclubuiet/videos/170344660980781/)                                                                                 |
@@ -104,7 +104,8 @@ SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/maste
 | 5.  | Feb 14, 2020    | Yeshi Jinsel  Ankur Bhatia | Introduction to Convolutional NN's    | [CNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks)              |                                                                                                                                                                                                          |
 | 6.  | Feb 16, 2020    | Ankur Bhatia               | Optimizing Neural Networks            | [Optimizing DNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN)                    |                                                                                                                                                                                                          |
 | 7.  | Feb 22, 2020    |                            | Paper Presentations                   | [Paper Presentations](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation)             | [https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI](https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI) |
-| 8.  | March 5, 2020   | Ankur Bhatia               | Object Detection                      | [Object Detection](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection)                  |                                                                                                                                                                                                          | <br> <br>
+| 8.  | March 5, 2020   | Ankur Bhatia               | Object Detection                      | [Object Detection](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection)                  |                                                                                                                                                                                                          | 
+- SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
 <img src="/assets/Teaching/DLSessions.png"> <br>
 2. **Session on Git and GitHub:**
 - Merging multiple commits (squash).
@@ -137,6 +138,7 @@ Our Video: [https://www.youtube.com/watch?v=KYt29Lyr8o0](https://www.youtube.com
 ## Contact me
 
 [bhatia.ankur24@gmail.com](mailto:bhatia.ankur24@gmail.com)
+
 
 
 

@@ -25,6 +25,7 @@ I am currently open to 3 Month Internship Opportunities and my near goal is to d
 - Youtube: [https://youtube.com/channel/UCXBpYWCQRehoBYZEqfpTuNA](https://youtube.com/channel/UCXBpYWCQRehoBYZEqfpTuNA)
 - Medium: [https://medium.com/@ankurbhatia_18761](https://medium.com/@ankurbhatia_18761)
 
+====================
 <img src="/assets/HomePage_Blogs/new_small.gif">
 # Paper Review on Ranknet
 In this video, we understand about Ranknet. Learning to Rank using Ranknet (by Microsoft) is a Ranking Algorithm that is used to rank the results of a query. The ranking comparison is performed pairwise, no mapping to particular rank values is required and no rank boundaries are needed. Hence, this paper removes the need of performing ordinal regression. Also, this paper presents a probabilistic cost function and learning using Gradient Descent.<br>
