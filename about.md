@@ -91,7 +91,7 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 * For Internships and work experience, check out my [Resume](https://ankurbhatia24.github.io/ankurbhatia24.github.io/resume.pdf). 
 
 ## Teaching
-1. **Deep Learning Course, Under Programming Club, UIET - 2020**: <br>
+1. **Deep Learning Course, Under Programming Club, UIET - 2020**: <br> <br> <br>
 <img src="/assets/Teaching/AI_Saturday1.gif" height="450" width="450"> <img src="/assets/Teaching/DLText.png" height="450" width="450"> <br>
 
 **The session list is as follows**:
@@ -185,6 +185,7 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 <br> 
 - SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
 <img src="/assets/Teaching/DLSessions.png"> <br>
+
 2. **Session on Git and GitHub:**
 - Merging multiple commits (squash).
 - Stashing.
