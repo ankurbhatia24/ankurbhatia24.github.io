@@ -104,7 +104,6 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-
 <table class="tg">
 <thead>
   <tr>
@@ -122,8 +121,8 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
     <td class="tg-0pky">Jan 25, 2020</td>
     <td class="tg-0pky">Ankur Bhatia</td>
     <td class="tg-0pky">Introduction to Deep Learning</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning"><span style="color:#905">[Intro](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning)</span></a></td>
-    <td class="tg-0pky"><a href="https://www.facebook.com/pclubuiet/videos/170344660980781/"><span style="color:#905">[https://www.facebook.com/pclubuiet/videos/170344660980781/](https://www.facebook.com/pclubuiet/videos/170344660980781/)</span></a></td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning</a></td>
+    <td class="tg-0pky"><a href="https://www.facebook.com/pclubuiet/videos/170344660980781/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/pclubuiet/videos/170344660980781/</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2. </td>
@@ -131,7 +130,7 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
     <td class="tg-0pky">Ankur Bhatia</td>
     <td class="tg-0pky">Optimizing Deep Neral Networks</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud"><span style="color:#905">[https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud](https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud)</span></a></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">3. </td>
@@ -146,15 +145,15 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
     <td class="tg-0pky">Feb 8, 2020</td>
     <td class="tg-0pky">Divyam Madaan</td>
     <td class="tg-0pky">SOTA Research and How to do Research?</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan"><span style="color:#905">[SOTA Divyam Madaan](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan)</span></a></td>
-    <td class="tg-0pky"><a href="https://twitter.com/bhatia_ankur24/status/1228171211336609794"><span style="color:#905">[https://twitter.com/bhatia_ankur24/status/1228171211336609794](https://twitter.com/bhatia_ankur24/status/1228171211336609794)</span></a></td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan</a></td>
+    <td class="tg-0pky"><a href="https://twitter.com/bhatia_ankur24/status/1228171211336609794" target="_blank" rel="noopener noreferrer">https://twitter.com/bhatia_ankur24/status/1228171211336609794</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">5. </td>
     <td class="tg-0pky">Feb 14, 2020</td>
     <td class="tg-0pky">Yeshi Jinsel<br><br>Ankur Bhatia</td>
     <td class="tg-0pky">Introduction to Convolutional NN's</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks"><span style="color:#905">[CNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks)</span></a></td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -162,7 +161,7 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
     <td class="tg-0pky">Feb 16, 2020</td>
     <td class="tg-0pky">Ankur Bhatia</td>
     <td class="tg-0pky">Optimizing Neural Networks</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN"><span style="color:#905">[Optimizing DNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN)</span></a></td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -170,19 +169,19 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
     <td class="tg-0pky">Feb 22, 2020</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Paper Presentations</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation"><span style="color:#905">[Paper Presentations](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation)</span></a></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI"><span style="color:#905">[https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI](https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI)</span></a></td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation</a></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">8. </td>
     <td class="tg-0pky">March 5, 2020</td>
     <td class="tg-0pky">Ankur Bhatia</td>
     <td class="tg-0pky">Object Detection</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection"><span style="color:#905">[Object Detection](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection)</span></a></td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection</a></td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
-</table> 
+</table>
 <br> 
 - SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
 <img src="/assets/Teaching/DLSessions.png"> <br>

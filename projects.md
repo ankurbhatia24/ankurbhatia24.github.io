@@ -6,8 +6,8 @@ permalink: /projects/
 
 Projects
 ====================
-<img src="/assets/Projects/new_small.gif">
-* ## **Flask Based Whatsapp Application with Twilio:** <br>
+
+* ## **Flask Based Whatsapp Application with Twilio:**  <img src="/assets/Projects/new_small.gif"> <br>
 This project helps to calculate the amount of money people are donating to PM-CARES fund (Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund ) during the period of Lockdown.
 This WhatsApp application allows the users to send a screenshot or a pdf, as a WhatsApp message, of the payment done to the fund from 9 specific locations. The application takes the user media input and processes the image to evaluate the amount automatically using Computer Vision Techniques.
 Also, this application has a functionality of finding weather the user has downloaded the "Arogya Setu" App in his mobile device or not. For this, the user has to send the screenshot of his mobile screen where the app is present. <br>
