@@ -96,16 +96,84 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 
 **The session list is as follows**:
 
-|     | Date            | Speaker                    | Topic                                 | Session Pics                                                                                                      | Link to Post                                                                                                                                                                                             |
-|-----|-----------------|----------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  | Jan 25, 2020    | Ankur Bhatia               | Introduction to Deep Learning         | [Intro](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning)                   | [https://www.facebook.com/pclubuiet/videos/170344660980781/](https://www.facebook.com/pclubuiet/videos/170344660980781/)                                                                                 |
-| 2.  | Feb 1, 2020     | Ankur Bhatia               | Optimizing Deep Neral Networks        |                                                                                                                   | [https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud](https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud) |
-| 3.  | Feb 8, 2020     | Sarthak Thakur             | Regularization and Initializations    |                                                                                                                   |                                                                                                                                                                                                          |
-| 4.  | Feb 8, 2020     | Divyam Madaan              | SOTA Research and How to do Research? | [SOTA Divyam Madaan](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan) | [https://twitter.com/bhatia_ankur24/status/1228171211336609794](https://twitter.com/bhatia_ankur24/status/1228171211336609794)                                                                           |
-| 5.  | Feb 14, 2020    | Yeshi Jinsel  Ankur Bhatia | Introduction to Convolutional NN's    | [CNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks)              |                                                                                                                                                                                                          |
-| 6.  | Feb 16, 2020    | Ankur Bhatia               | Optimizing Neural Networks            | [Optimizing DNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN)                    |                                                                                                                                                                                                          |
-| 7.  | Feb 22, 2020    |                            | Paper Presentations                   | [Paper Presentations](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation)             | [https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI](https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI) |
-| 8.  | March 5, 2020   | Ankur Bhatia               | Object Detection                      | [Object Detection](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection)                  |                                                                                                                                                                                                          | 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Speaker</th>
+    <th class="tg-0pky">Topic</th>
+    <th class="tg-0pky">Session Pics</th>
+    <th class="tg-0pky">Link to Post</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1. </td>
+    <td class="tg-0pky">Jan 25, 2020</td>
+    <td class="tg-0pky">Ankur Bhatia</td>
+    <td class="tg-0pky">Introduction to Deep Learning</td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning"><span style="color:#905">[Intro](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning)</span></a></td>
+    <td class="tg-0pky"><a href="https://www.facebook.com/pclubuiet/videos/170344660980781/"><span style="color:#905">[https://www.facebook.com/pclubuiet/videos/170344660980781/](https://www.facebook.com/pclubuiet/videos/170344660980781/)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2. </td>
+    <td class="tg-0pky">Feb 1, 2020</td>
+    <td class="tg-0pky">Ankur Bhatia</td>
+    <td class="tg-0pky">Optimizing Deep Neral Networks</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud"><span style="color:#905">[https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud](https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3. </td>
+    <td class="tg-0pky">Feb 8, 2020  <br> </td>
+    <td class="tg-0pky">Sarthak Thakur</td>
+    <td class="tg-0pky">Regularization and Initializations</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4. </td>
+    <td class="tg-0pky">Feb 8, 2020</td>
+    <td class="tg-0pky">Divyam Madaan</td>
+    <td class="tg-0pky">SOTA Research and How to do Research?</td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan"><span style="color:#905">[SOTA Divyam Madaan](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan)</span></a></td>
+    <td class="tg-0pky"><a href="https://twitter.com/bhatia_ankur24/status/1228171211336609794"><span style="color:#905">[https://twitter.com/bhatia_ankur24/status/1228171211336609794](https://twitter.com/bhatia_ankur24/status/1228171211336609794)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5. </td>
+    <td class="tg-0pky">Feb 14, 2020</td>
+    <td class="tg-0pky">Yeshi Jinsel<br><br>Ankur Bhatia</td>
+    <td class="tg-0pky">Introduction to Convolutional NN's</td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks"><span style="color:#905">[CNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks)</span></a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">6. </td>
+    <td class="tg-0pky">Feb 16, 2020</td>
+    <td class="tg-0pky">Ankur Bhatia</td>
+    <td class="tg-0pky">Optimizing Neural Networks</td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN"><span style="color:#905">[Optimizing DNN's](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN)</span></a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">7. </td>
+    <td class="tg-0pky">Feb 22, 2020</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Paper Presentations</td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation"><span style="color:#905">[Paper Presentations](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation)</span></a></td>
+    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI"><span style="color:#905">[https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI](https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8. </td>
+    <td class="tg-0pky">March 5, 2020</td>
+    <td class="tg-0pky">Ankur Bhatia</td>
+    <td class="tg-0pky">Object Detection</td>
+    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection"><span style="color:#905">[Object Detection](https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection)</span></a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>                                                                                                                                                                                                       | 
 - SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
 <img src="/assets/Teaching/DLSessions.png"> <br>
 2. **Session on Git and GitHub:**
