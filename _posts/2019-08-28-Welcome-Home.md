@@ -18,6 +18,9 @@ I am currently open to 3 Month Internship Opportunities and my near goal is to d
 
 ------
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6675080824905375744" allowfullscreen="" title="Embedded post" width="504" height="676" frameborder="0"></iframe> <br>
+
+------
 # Proof: Floyd's cycle finding Algorithm (Hare and Turtle algo)  <img src="/assets/HomePage_Blogs/new_small.gif"> <br>
 Floyd's cycle-finding algorithm is a pointer algorithm that uses only two pointers, which move through the sequence at different speeds. This algorithm can be used to detect cycle in linked lists in O(n) time and O(1) Space and also detect the position of start of the linked list. This video tutorial explains the concept and proof of the algorithm. <br>
 Video_link: [https://youtu.be/iQmFtH0kj2c](https://youtu.be/iQmFtH0kj2c) <br>
