@@ -36,6 +36,114 @@ I'm a Senior Undergraduate at UIET, Panjab University, India (2017-21, B.Tech EC
 * Deep Learning Research Intern, Center of Robotics and Machine Intelligence, IIIT Allahabad (December 2019 - February 2020)
 * Celestini Project Intern, The Marconi Society, IIT Delhi (June 2019 - August 2019). 
 
+## Teaching
+**1. Deep Learning Course, Under Programming Club, UIET - 2020**: <br> <br> <br>
+<img src="/assets/Teaching/AI_Saturday1.gif" height="450" width="450"> <img src="/assets/Teaching/DLText.png" height="450" width="450"> <br>
+
+		**The session list is as follows**:
+		<!---  MAKE TABLE USING HTML TABLE GENERATOR     --->
+		<style type="text/css">
+		.tg  {border-collapse:collapse;border-spacing:0;}
+		.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		  overflow:hidden;padding:10px 5px;word-break:normal;}
+		.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+		  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+		.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+		</style>
+		<table class="tg">
+		<thead>
+		  <tr>
+		    <th class="tg-0pky"></th>
+		    <th class="tg-0pky">Date</th>
+		    <th class="tg-0pky">Speaker</th>
+		    <th class="tg-0pky">Topic</th>
+		    <th class="tg-0pky">Session Pics</th>
+		    <th class="tg-0pky">Link to Post</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <tr>
+		    <td class="tg-0pky">1. </td>
+		    <td class="tg-0pky">Jan 25, 2020</td>
+		    <td class="tg-0pky">Ankur Bhatia</td>
+		    <td class="tg-0pky">Introduction to Deep Learning</td>
+		    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning</a></td>
+		    <td class="tg-0pky"><a href="https://www.facebook.com/pclubuiet/videos/170344660980781/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/pclubuiet/videos/170344660980781/</a></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">2. </td>
+		    <td class="tg-0pky">Feb 1, 2020</td>
+		    <td class="tg-0pky">Ankur Bhatia</td>
+		    <td class="tg-0pky">Optimizing Deep Neral Networks</td>
+		    <td class="tg-0pky"></td>
+		    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud</a></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">3. </td>
+		    <td class="tg-0pky">Feb 8, 2020  <br> </td>
+		    <td class="tg-0pky">Sarthak Thakur</td>
+		    <td class="tg-0pky">Regularization and Initializations</td>
+		    <td class="tg-0pky"></td>
+		    <td class="tg-0pky"></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">4. </td>
+		    <td class="tg-0pky">Feb 8, 2020</td>
+		    <td class="tg-0pky">Divyam Madaan</td>
+		    <td class="tg-0pky">SOTA Research and How to do Research?</td>
+		    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan</a></td>
+		    <td class="tg-0pky"><a href="https://twitter.com/bhatia_ankur24/status/1228171211336609794" target="_blank" rel="noopener noreferrer">https://twitter.com/bhatia_ankur24/status/1228171211336609794</a></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">5. </td>
+		    <td class="tg-0pky">Feb 14, 2020</td>
+		    <td class="tg-0pky">Yeshi Jinsel<br><br>Ankur Bhatia</td>
+		    <td class="tg-0pky">Introduction to Convolutional NN's</td>
+		    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks</a></td>
+		    <td class="tg-0pky"></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">6. </td>
+		    <td class="tg-0pky">Feb 16, 2020</td>
+		    <td class="tg-0pky">Ankur Bhatia</td>
+		    <td class="tg-0pky">Optimizing Neural Networks</td>
+		    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN</a></td>
+		    <td class="tg-0pky"></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">7. </td>
+		    <td class="tg-0pky">Feb 22, 2020</td>
+		    <td class="tg-0pky"></td>
+		    <td class="tg-0pky">Paper Presentations</td>
+		    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation</a></td>
+		    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI</a></td>
+		  </tr>
+		  <tr>
+		    <td class="tg-0pky">8. </td>
+		    <td class="tg-0pky">March 5, 2020</td>
+		    <td class="tg-0pky">Ankur Bhatia</td>
+		    <td class="tg-0pky">Object Detection</td>
+		    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection</a></td>
+		    <td class="tg-0pky"></td>
+		  </tr>
+		</tbody>
+		</table>
+		<br> 
+		- SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
+		<img src="/assets/Teaching/DLSessions.png"> <br>
+
+**2. Session on Git and GitHub:**
+- Merging multiple commits (squash).
+- Stashing.
+- Reverting commits, removing commits (soft and hard resets)
+- Resolving merge conflicts (locally and remotely (from github gui))
+- About Hacktoberfest
+
+**3. Session on Python - covering basic syntax and useful libraries.**
+
+**4. Session on Linux, OpenSource Development and Hacktoberfest:** Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. During Hacktoberfest each participant needs to do atleast 4 pull request to receive a Tshirt and schwags. One can contribute in any open source project available on @github. At UIET, we would be bringing some awesome open source contributers and maintainers to provide insights of how effective an open source contribution can be. You'll learn how to start looking into big organizations and get yourselves prepared for the summer of codes programmes. We'll help you all explore awesome github repositories and also help in understanding the github flow. NOTE: Make sure you get yourselves registered on the Hacktoberfest website (https://hacktoberfest.digitalocean.com) to make your contributions count. Small Competition among peers: The one who will do the highest number of Pull Requests by 15th October will get some awesome @jetbrains Schwags. To know more about the event: visit https://hacktoberfest.digitalocean.com
+Register yourselves here: https://hacktoberfestinuiet.eventcreate.com/
+
 ## Experience  
 
 * **Celestini Program India, The Marconi Society at IIT Delhi** -  
@@ -58,9 +166,10 @@ Cheers to the team Melodic Bits: Ankur Bhatia, Ananya Duggal, Dhawal Sharda. <br
 <img src="/assets/Experience/Ennovate1.jpg" height="400" width="420">             <img src="/assets/Experience/Ennovate2.jpg" height="400" width="420"> 
 
 * **Dell Campassador 2018-2019** - 
-Dell Campassador is a marketing cum student development program by Dell in which selected delegates need to complete tasks assigned within a limited time period. I won many tasks and got perks and prizes. The program is mainly focused on soft skills and how well can one present things with limited resources. I was selected among the top 10 Dell Campassadors in India and got an opportunity to visit Dell Factory in Sriperumbudur, Chennai, and was invited to present UIET at Dell Bangalore Office during the felicitation Ceremony. *Everything was fully sponsored.
-1. Factory Visit - [http://bit.ly/Dell_chennai](http://bit.ly/Dell_chennai) <br>
-2. Example Task - [http://bit.ly/win_ad_mad](http://bit.ly/win_ad_mad) <br>
+Dell Campassador is a marketing cum student development program by Dell in which selected delegates need to complete tasks assigned within a limited time period. I won many tasks and got perks and prizes. The program is mainly focused on soft skills and how well can one present things with limited resources. I was selected among the top 10 Dell Campassadors in India and got an opportunity to visit Dell Factory in Sriperumbudur, Chennai, and was invited to present UIET at Dell Bangalore Office during the felicitation Ceremony. *Everything was fully sponsored. <br>
+1. Experience - [https://www.youtube.com/watch?v=Bzjm9tBUTTo](https://www.youtube.com/watch?v=Bzjm9tBUTTo)
+2. Factory Visit - [http://bit.ly/Dell_chennai](http://bit.ly/Dell_chennai) <br>
+3. Example Task - [http://bit.ly/win_ad_mad](http://bit.ly/win_ad_mad) <br>
 <img src="/assets/Experience/Dell1.png" height="340" width="420">                <img src="/assets/Experience/Dell2.png" height="400" width="420">
 
 * **Organizer and Speaker Software Freedom Day 2019** -
@@ -90,113 +199,6 @@ Check out our page at [https://www.facebook.com/egu.uietchd/](https://www.facebo
 
 * For Internships and work experience, check out my [Resume](https://ankurbhatia24.github.io/ankurbhatia24.github.io/resume.pdf). 
 
-## Teaching
-1. **Deep Learning Course, Under Programming Club, UIET - 2020**: <br> <br> <br>
-<img src="/assets/Teaching/AI_Saturday1.gif" height="450" width="450"> <img src="/assets/Teaching/DLText.png" height="450" width="450"> <br>
-
-**The session list is as follows**:
-<!---  MAKE TABLE USING HTML TABLE GENERATOR     --->
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky">Date</th>
-    <th class="tg-0pky">Speaker</th>
-    <th class="tg-0pky">Topic</th>
-    <th class="tg-0pky">Session Pics</th>
-    <th class="tg-0pky">Link to Post</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">1. </td>
-    <td class="tg-0pky">Jan 25, 2020</td>
-    <td class="tg-0pky">Ankur Bhatia</td>
-    <td class="tg-0pky">Introduction to Deep Learning</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Intro%20to%20Deep%20Learning</a></td>
-    <td class="tg-0pky"><a href="https://www.facebook.com/pclubuiet/videos/170344660980781/" target="_blank" rel="noopener noreferrer">https://www.facebook.com/pclubuiet/videos/170344660980781/</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">2. </td>
-    <td class="tg-0pky">Feb 1, 2020</td>
-    <td class="tg-0pky">Ankur Bhatia</td>
-    <td class="tg-0pky">Optimizing Deep Neral Networks</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/bhatia-ankur24_deeplearning-ai-ml-activity-6629438690970165248-fUud</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">3. </td>
-    <td class="tg-0pky">Feb 8, 2020  <br> </td>
-    <td class="tg-0pky">Sarthak Thakur</td>
-    <td class="tg-0pky">Regularization and Initializations</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">4. </td>
-    <td class="tg-0pky">Feb 8, 2020</td>
-    <td class="tg-0pky">Divyam Madaan</td>
-    <td class="tg-0pky">SOTA Research and How to do Research?</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/SOTA%20Research%20Divyam%20Madaan</a></td>
-    <td class="tg-0pky"><a href="https://twitter.com/bhatia_ankur24/status/1228171211336609794" target="_blank" rel="noopener noreferrer">https://twitter.com/bhatia_ankur24/status/1228171211336609794</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">5. </td>
-    <td class="tg-0pky">Feb 14, 2020</td>
-    <td class="tg-0pky">Yeshi Jinsel<br><br>Ankur Bhatia</td>
-    <td class="tg-0pky">Introduction to Convolutional NN's</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Convolutional%20Neural%20Networks</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">6. </td>
-    <td class="tg-0pky">Feb 16, 2020</td>
-    <td class="tg-0pky">Ankur Bhatia</td>
-    <td class="tg-0pky">Optimizing Neural Networks</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Optimizing%20DNN</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">7. </td>
-    <td class="tg-0pky">Feb 22, 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Paper Presentations</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Paper%20Presentation</a></td>
-    <td class="tg-0pky"><a href="https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/posts/bhatia-ankur24_keras-python-paper-activity-6637716469826326528-2XoI</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">8. </td>
-    <td class="tg-0pky">March 5, 2020</td>
-    <td class="tg-0pky">Ankur Bhatia</td>
-    <td class="tg-0pky">Object Detection</td>
-    <td class="tg-0pky"><a href="https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection" target="_blank" rel="noopener noreferrer">https://github.com/ankurbhatia24/AI_Saturdays/tree/master/Object%20detection</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
-<br> 
-- SLIDES: [PClubAICS2020](https://github.com/ankurbhatia24/AI_Saturdays/blob/master/slides/PClubAICS2020.pdf) <br>
-<img src="/assets/Teaching/DLSessions.png"> <br>
-
-2. **Session on Git and GitHub:**
-- Merging multiple commits (squash).
-- Stashing.
-- Reverting commits, removing commits (soft and hard resets)
-- Resolving merge conflicts (locally and remotely (from github gui))
-- About Hacktoberfest
-
-3. **Session on Python - covering basic syntax and useful libraries.**
-
-4. **Session on Linux, OpenSource Development and Hacktoberfest:** Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. During Hacktoberfest each participant needs to do atleast 4 pull request to receive a Tshirt and schwags. One can contribute in any open source project available on @github. At UIET, we would be bringing some awesome open source contributers and maintainers to provide insights of how effective an open source contribution can be. You'll learn how to start looking into big organizations and get yourselves prepared for the summer of codes programmes. We'll help you all explore awesome github repositories and also help in understanding the github flow. NOTE: Make sure you get yourselves registered on the Hacktoberfest website (https://hacktoberfest.digitalocean.com) to make your contributions count. Small Competition among peers: The one who will do the highest number of Pull Requests by 15th October will get some awesome @jetbrains Schwags. To know more about the event: visit https://hacktoberfest.digitalocean.com
-Register yourselves here: https://hacktoberfestinuiet.eventcreate.com/
 
 ## Extra Curricular
 * **Cajon** - I was in my second year when I heard this amazing song being played in a concert on the beats of a musical instrument known as – Cajon. Being a drums player myself in school days, my curiosity peaked and I bought the instrument online. Having no access to a real-life trainer, I turned to Youtube for help. I saw numerous tutorials on my PC and learned to master the instrument with the help of a reel life trainer. Now, I perform this instrument on many concerts and functions and sometimes also get to fill my pocket. <br>
