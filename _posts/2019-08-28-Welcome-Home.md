@@ -20,8 +20,6 @@ I am currently open to 3 Month Internship Opportunities and my near goal is to d
 
 
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/BiasInData?src=hash&amp;ref_src=twsrc%5Etfw">#BiasInData</a><a href="https://t.co/72HkyNabH5">https://t.co/72HkyNabH5</a><a href="https://twitter.com/hashtag/deeplearning?src=hash&amp;ref_src=twsrc%5Etfw" width = "504" height = "676" >#deeplearning</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://t.co/6e9forL3sz">pic.twitter.com/6e9forL3sz</a></p>&mdash; Ankur Bhatia (@bhatia_ankur24) <a href="https://twitter.com/bhatia_ankur24/status/1276151188849922048?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6675080824905375744" allowfullscreen="" title="Embedded post" width="504" height="676" frameborder="0"></iframe>  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6673205140901777408" allowfullscreen="" title="Embedded post" width="504" height="676" frameborder="0"></iframe> <br>
 
 ------
