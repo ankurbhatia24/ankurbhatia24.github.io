@@ -14,7 +14,7 @@ icon: icon-html
 ---
 
 ## Status
-I am currently open to 3 Month Internship Opportunities and my near goal is to do a Masters in the field of Deep Learning. <br>
+I am open for Internship Opportunities in Fall 2020 and my near goal is to do a Masters in the field of Deep Learning. <br>
 
 ------
 
