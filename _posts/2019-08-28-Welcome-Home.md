@@ -42,3 +42,11 @@ This blog is published under [Analytics Vidhya Publication](https://medium.com/a
 
 ### Some Helpful Blogs:
 1. Getting Started with Docker - [https://championshuttler.github.io/docker-basicLearning/](https://championshuttler.github.io/docker-basicLearning/)
+2. Bayesian Inference for Parameter Estimation - [Medium Article](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
+	* This includes details about Bayes Theorem, Prior, Posterior, Liklihood and Marginal (evidence) distributions (i.e. all parts of the bayes formula)
+	* Maximum a posteriori probability estimate or simply, the MAP estimate - The most important statistic calculated from the Posterior Distribution. (called Mode (statistics))
+	* The fact that the posterior and prior are both from the same distribution family (they are both Gaussians) means that they are called conjugate distributions. In this case the prior distribution is known as a conjugate prior.
+	* Includes a best blog for Latent Dirichlet Allocation (LDA) which is an unsupervised learning algorithm for finding topics in text corpa.[Blog](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
+	* Markov Chain Monte Carlo methods - If the prior and or liklihood are not gaussians, then their multiplications (Bayes) is difficult. [Blog](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
+	* Continous Updating Bayesian Inference if new data points arises. Application in Kalman Filters. [Blog](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+	* How can priors acts as regularizers.
