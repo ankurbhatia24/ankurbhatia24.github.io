@@ -50,3 +50,6 @@ This blog is published under [Analytics Vidhya Publication](https://medium.com/a
 	* Markov Chain Monte Carlo methods - If the prior and or liklihood are not gaussians, then their multiplications (Bayes) is difficult. [Blog](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
 	* Continous Updating Bayesian Inference if new data points arises. Application in Kalman Filters. [Blog](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 	* How can priors acts as regularizers.
+3. Stratifying the data during Train Test Slplit - [https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50](https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50)
+	* Using seed is important so that results are reproducible (seed numpy, tf, cuda)
+	* Stratification is necessary so that the data distribution remains same in both train set and test. Not be the case like most data from 3 classes (say) are in train set and other 2 classes (say ) in test set. Easily be done using stratify argument in train_test_split() from sklearn.
