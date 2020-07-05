@@ -53,3 +53,9 @@ This blog is published under [Analytics Vidhya Publication](https://medium.com/a
 3. Stratifying the data during Train Test Slplit - [https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50](https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50)
 	* Using seed is important so that results are reproducible (seed numpy, tf, cuda)
 	* Stratification is necessary so that the data distribution remains same in both train set and test. Not be the case like most data from 3 classes (say) are in train set and other 2 classes (say ) in test set. Easily be done using stratify argument in train_test_split() from sklearn.
+4. Self Supervised Representational Learning - [https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+5. Deep Learning Based Text Classification: A Comprehensive Review (2020) - [arXiv pdf](https://arxiv.org/pdf/2004.03705.pdf)
+6. Deep Learning for Single Image Super-Resolution : A Brief Review (2019) - [arXiv pdf](https://arxiv.org/pdf/1808.03344.pdf)
+
+### To Read about:
+1. Soap Bubble Effect in High Dimensionals Gaussians - Much of the density of a high dimensional Gaussian lies close to the surface of a hypersphere. [Stack Exchange Question](https://stats.stackexchange.com/questions/419412/why-is-gaussian-distribution-on-high-dimensional-space-like-a-soap-bubble)
