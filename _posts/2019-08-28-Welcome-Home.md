@@ -23,6 +23,8 @@ I am open for Internship Opportunities in Fall 2020 and my near goal is to do a 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6675080824905375744" allowfullscreen="" title="Embedded post" width="504" height="676" frameborder="0"></iframe>  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6673205140901777408" allowfullscreen="" title="Embedded post" width="504" height="676" frameborder="0"></iframe> <br>
 
 ------
+# ICML 2020: Review - [link](https://ankurbhatia24.github.io/ICML2020/)
+
 # Proof: Floyd's cycle finding Algorithm (Hare and Turtle algo)  <img src="/assets/HomePage_Blogs/new_small.gif"> <br>
 Floyd's cycle-finding algorithm is a pointer algorithm that uses only two pointers, which move through the sequence at different speeds. This algorithm can be used to detect cycle in linked lists in O(n) time and O(1) Space and also detect the position of start of the linked list. This video tutorial explains the concept and proof of the algorithm. <br>
 Video_link: [https://youtu.be/iQmFtH0kj2c](https://youtu.be/iQmFtH0kj2c) <br>
@@ -50,12 +52,17 @@ This blog is published under [Analytics Vidhya Publication](https://medium.com/a
 	* Markov Chain Monte Carlo methods - If the prior and or liklihood are not gaussians, then their multiplications (Bayes) is difficult. [Blog](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
 	* Continous Updating Bayesian Inference if new data points arises. Application in Kalman Filters. [Blog](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 	* How can priors acts as regularizers.
-3. Stratifying the data during Train Test Slplit - [https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50](https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50)
+3. How to Use t-SNE Effectively - [distill Pub T-SNE](https://distill.pub/2016/misread-tsne/)
+4. Stratifying the data during Train Test Slplit - [https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50](https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50)
 	* Using seed is important so that results are reproducible (seed numpy, tf, cuda)
 	* Stratification is necessary so that the data distribution remains same in both train set and test. Not be the case like most data from 3 classes (say) are in train set and other 2 classes (say ) in test set. Easily be done using stratify argument in train_test_split() from sklearn.
-4. Self Supervised Representational Learning - [https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
-5. Deep Learning Based Text Classification: A Comprehensive Review (2020) - [arXiv pdf](https://arxiv.org/pdf/2004.03705.pdf)
-6. Deep Learning for Single Image Super-Resolution : A Brief Review (2019) - [arXiv pdf](https://arxiv.org/pdf/1808.03344.pdf)
+5. Self Supervised Representational Learning - [https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+6. Deep Learning Based Text Classification: A Comprehensive Review (2020) - [arXiv pdf](https://arxiv.org/pdf/2004.03705.pdf)
+7. Deep Learning for Single Image Super-Resolution : A Brief Review (2019) - [arXiv pdf](https://arxiv.org/pdf/1808.03344.pdf)
 
 ### To Read about:
-1. Soap Bubble Effect in High Dimensionals Gaussians - Much of the density of a high dimensional Gaussian lies close to the surface of a hypersphere. [Stack Exchange Question](https://stats.stackexchange.com/questions/419412/why-is-gaussian-distribution-on-high-dimensional-space-like-a-soap-bubble)
+1. Soap Bubble Effect in High Dimensionals Gaussians - Much of the density of a high dimensional Gaussian lies close to the surface of a hypersphere: [Stack Exchange Question](https://stats.stackexchange.com/questions/419412/why-is-gaussian-distribution-on-high-dimensional-space-like-a-soap-bubble)
+2. One of the best explanations of Gaussian Processes - 2019 distill Publication: [visual-exploration-gaussian-processes/](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+3. Deep NN's as Gaussian Processes: [Paper](https://arxiv.org/pdf/1711.00165.pdf)
+4. Fast and Easy Infinite Wide Networks - Google ICML 2020: [Google AI Blog](https://ai.googleblog.com/2020/03/fast-and-easy-infinitely-wide-networks.html)
+5. Infinitely Deep Infinite Width Networks - ICLR 2019: [Paper](https://openreview.net/pdf?id=SkGT6sRcFX)
