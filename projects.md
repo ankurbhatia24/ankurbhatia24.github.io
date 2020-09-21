@@ -7,6 +7,13 @@ permalink: /projects/
 Projects
 ====================
 
+* ## **Explainable AI (XAI) - Some fun with visualizations:** <br>
+This small project aims at visualizing the important features of an image that contributes to the final classification label. Saliency maps and Grad-Cam visualizations are studied. Used keras visualization library for creating visualizations. <br>
+Document: [XAI.pdf](https://drive.google.com/file/d/1J4Kbe377SQ9HRAI8c_Arlpzw-SdcCQ8N/view?usp=sharing) <br>
+Github: [https://github.com/ankurbhatia24/XAI](https://github.com/ankurbhatia24/XAI) <br>
+<img src="/assets/Projects/xai-displayImage.png" allign="center" height="450" width = "800"> <br> 
+
+
 * ## **Flask Based Whatsapp Application with Twilio:**  <img src="/assets/Projects/new_small.gif"> <br>
 This project helps to calculate the amount of money people are donating to PM-CARES fund (Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund ) during the period of Lockdown.
 This WhatsApp application allows the users to send a screenshot or a pdf, as a WhatsApp message, of the payment done to the fund from 9 specific locations. The application takes the user media input and processes the image to evaluate the amount automatically using Computer Vision Techniques.
@@ -59,6 +66,10 @@ Synopsis: [MMHER Synopsis](https://docs.google.com/document/d/17qSOclmcoHCBSjNuc
 Code: [https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION](https://github.com/ankurbhatia24/MULTIMODAL-EMOTION-RECOGNITION) <br>
 <img src="/assets/Projects/MELD1.PNG" height="350" width="700"> <br>
 <img src="/assets/Projects/MELD2.gif" height="180" width="600">
+
+* ## **[In-Progress]Deep Learning for Single Image Super Resolution (SISR):** <img src="/assets/Projects/workinprogress_small.gif"> <br>
+Proposal: [Proposal Link](https://docs.google.com/document/d/1t1yGBqy-M5kxg7aG_Twj5Qoip79vGNDXMfcxzja07JY/edit?usp=sharing) <br>
+Github: [https://github.com/ankurbhatia24/image-super-resolution](https://github.com/ankurbhatia24/image-super-resolution) <br>
 
 * ## **[In-Progress] Crazyflie 2.1 Autonomous motion:** <img src="/assets/Projects/workinprogress_small.gif"> <br>
 Project to be done: Stable autonomous motion using Vicon Markers. <br>
