@@ -6,7 +6,7 @@
 name: Ankur Bhatia
 
 # Short bio or description (displayed in the header)
-description: Pre-Final Year Undergrad | Former Visiting Researcher, Center of Intelligent Robotics, IIITA | Former Research Intern, IIT Delhi
+description: Final Year Undergrad | Samsung R&D | Former Visiting Researcher, Center of Intelligent Robotics, IIITA | Former Research Intern, IIT Delhi
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "/images/Ankur.jpg"
@@ -47,7 +47,9 @@ url: https://ankurbhatia24.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/ankurbhatia24.github.io"
+
+#baseurl: "/ankurbhatia24.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
